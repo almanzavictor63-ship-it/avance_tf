@@ -1,19 +1,9 @@
-# :earth_americas: GDP dashboard template
+# Calculadora de descuentos
 
-A simple Streamlit app showing the GDP of different countries in the world.
+Aplicación hipotética de una tienda en línea para calcular el precio final de un
+pedido después de aplicar un descuento.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+## Cómo ejecutar la aplicación
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+1. Instala las dependencias con `pip install -r requirements.txt`.
+2. Inicia la aplicación con `streamlit run app.py`.
